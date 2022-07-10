@@ -3,14 +3,16 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Github
+    url: https://www.github.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ArchLinux
+    url: https://archlinux.org
+  - name: AUR
+    url: https://aur.archlinux.org
 
 status-website:
   baseUrl: /status
