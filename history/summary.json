@@ -78,9 +78,9 @@
     "url": "https://aur.archlinux.org",
     "icon": "https://favicons.githubusercontent.com/aur.archlinux.org",
     "slug": "aur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 988,
     "timeMonth": 988,
     "timeYear": 988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   }
 ]
