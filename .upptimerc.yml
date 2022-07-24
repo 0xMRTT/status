@@ -13,6 +13,8 @@ sites:
     url: https://archlinux.org
   - name: AUR
     url: https://aur.archlinux.org
+  - name: ZW
+    URL: https://wiki.zshell.dev
 
 status-website:
   baseUrl: /status
