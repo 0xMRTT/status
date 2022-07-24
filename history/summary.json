@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 99,
-    "timeWeek": 259,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 317,
+    "timeDay": 102,
+    "timeWeek": 240,
+    "timeMonth": 317,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 215,
-    "timeWeek": 213,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 205,
+    "timeWeek": 210,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.91%",
-    "time": 363,
-    "timeDay": 454,
-    "timeWeek": 377,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 368,
+    "timeDay": 456,
+    "timeWeek": 387,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2022-07-08": 449
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 692,
-    "timeWeek": 830,
-    "timeMonth": 908,
-    "timeYear": 908,
+    "time": 922,
+    "timeDay": 914,
+    "timeWeek": 868,
+    "timeMonth": 922,
+    "timeYear": 922,
     "dailyMinutesDown": {}
   },
   {
@@ -84,13 +84,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
-    "time": 975,
-    "timeDay": 795,
-    "timeWeek": 891,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 952,
+    "timeDay": 695,
+    "timeWeek": 854,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2022-07-13": 50
     }
+  },
+  {
+    "name": "ZW",
+    "url": "https://wiki.zshell.dev",
+    "icon": "https://favicons.githubusercontent.com/wiki.zshell.dev",
+    "slug": "zw",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
+    "dailyMinutesDown": {}
   }
 ]
